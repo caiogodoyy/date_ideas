@@ -16,6 +16,14 @@ body {
     background-color: cadetblue;
 }
 
+#escolhas {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
 .bel img {
     margin-top: 50px;
     width: 220px;
@@ -28,7 +36,8 @@ body {
 
 .interrogacao img {
     margin-top: 20px;
-    margin-left: 23px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: 150px;
     border-radius: 5%;
 }
